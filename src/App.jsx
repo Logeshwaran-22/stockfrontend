@@ -5,7 +5,7 @@ import {
 } from "lucide-react";
 
 import Login     from "./pages/Login.jsx";
-import Dashboard from "./pages/Dashboard.jsx";
+import Dashboard from "./pages/dashboard.jsx";
 import Inventory from "./pages/Inventory.jsx";
 import Movements from "./pages/Movements.jsx";
 
