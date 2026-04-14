@@ -1,5 +1,7 @@
+import Login from "./pages/Login.jsx";
+
 function App() {
-  return <h1>Deployment Test Success</h1>
+  return <Login />
 }
 
 export default App
