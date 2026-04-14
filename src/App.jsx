@@ -11,8 +11,8 @@ import Dashboard from "./pages/Dashboard.jsx";
 import Inventory from "./pages/Inventory.jsx";
 import Movements from "./pages/Movements.jsx";
 
-import api from "./pages/api";
-import useWarehouse from "./pages/useWarehouse";
+import api from "./pages/api.js";
+import useWarehouse from "./pages/useWarehouse.js";
 
 /* ── Google Fonts ─────────────────────────────────────────────────────────── */
 const fontLink = document.createElement("link");
