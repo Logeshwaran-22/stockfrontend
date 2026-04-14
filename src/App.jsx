@@ -6,10 +6,10 @@ import {
   Package, ArrowLeftRight, ChevronRight,
 } from "lucide-react";
 
-import Login     from "./pages/login";
-import Dashboard from "./pages/dashboard";
-import Inventory from "./pages/Inventory";
-import Movements from "./pages/Movements";
+import Login     from "./pages/Login.jsx";
+import Dashboard from "./pages/Dashboard.jsx";
+import Inventory from "./pages/Inventory.jsx";
+import Movements from "./pages/Movements.jsx";
 
 import api from "./pages/api";
 import useWarehouse from "./pages/useWarehouse";
